@@ -5,6 +5,7 @@ sap.ui.define([
 
     return Controller.extend("zgitsampleapp.controller.HomeView", {
         onInit() {
+            //Latest Version 1.01
         }
     });
 });
