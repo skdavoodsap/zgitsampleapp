@@ -1,0 +1,12 @@
+<mvc:View controllerName="zgitsampleapp.controller.HomeView"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+    <content>
+    <VBox>
+    <Text text="WELCOME TO GIT Project.........."></Text>
+    <TextArea value="Version 1.00"></TextArea>
+    </VBox>
+    </content>
+    </Page>
+</mvc:View>
