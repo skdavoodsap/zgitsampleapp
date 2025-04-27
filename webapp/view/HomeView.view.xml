@@ -1,6 +1,7 @@
 <mvc:View controllerName="zgitsampleapp.controller.HomeView"
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
+    <!--   Version 1.00  Test Version-->
     <Page id="page" title="{i18n>title}">
     <content>
     <VBox>
